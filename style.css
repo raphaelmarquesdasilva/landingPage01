@@ -11,13 +11,35 @@
 }
 
 .div1 img {
-    height: 10vh;
-    width: 10vw;
+    height: 7vh;
+    width: 7vw;
     margin-left: 30vw;
 }
 
 .div2 h1 {
-    margin-left: 25vw;
+    margin-left: 19vw;
+    font-size: 50px;
+}
+
+.div3 h2 {
+    margin-left: 19.5vw;
+    font-size: 25px;
+}
+
+.div4 {
+    margin-left: 20vw;
+}
+
+.input1 {
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+}
+
+.input2 {
+    width: 150px;
+    height: 35px;
+    border-radius: 5px;
 }
 
 

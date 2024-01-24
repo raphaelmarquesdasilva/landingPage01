@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    
+}
+
+.cabecalho {
+    justify-content: center;
+    margin-left: 15vw;
+}
+
+.div1 img {
+    height: 10vh;
+    width: 10vw;
+    margin-left: 30vw;
+}
+
+.div2 h1 {
+    margin-left: 25vw;
+}
+
+
+

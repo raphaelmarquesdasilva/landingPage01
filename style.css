@@ -12,7 +12,13 @@ body {
 .cabecalho {
     justify-content: center;
     margin-left: 15vw;
+    align-content: space-around;
     
+}
+
+.div1 {
+    margin-top: 2vw;
+    margin-bottom: 2vh;
 }
 
 .div1 img {
@@ -21,10 +27,20 @@ body {
     margin-left: 30vw;
 }
 
+.div2 {
+    margin-top: 2vw;
+    margin-bottom: 2vh;
+}
+
 .div2 h1 {
     margin-left: 19vw;
     font-size: 50px;
     color: white;
+}
+
+.div3 {
+    margin-top: 2vw;
+    margin-bottom: 2vh;
 }
 
 .div3 h2 {
@@ -35,6 +51,8 @@ body {
 
 .div4 {
     margin-left: 20vw;
+    margin-top: 2vw;
+    margin-bottom: 2vh;
 }
 
 .input1 {
@@ -47,6 +65,13 @@ body {
     width: 150px;
     height: 39px;
     border-radius: 5px;
+    background-color: #212326;
+    color: white;
+}
+
+.div5 {
+    margin-top: 1.5vw;
+    margin-bottom: 1.5vh;
 }
 
 .div5 h3 {
@@ -61,6 +86,12 @@ body {
 
 .h3-2 {
     margin-left: 30vw;
+}
+
+.div6 img {
+    width: 280px;
+    height: 280px;
+    margin-left: 25.5vw;
 }
 
 

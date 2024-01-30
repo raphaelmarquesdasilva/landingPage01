@@ -160,4 +160,51 @@
     display: flex;
 }
 
+.div20 img {
+    margin-left: 26vw;
+    width: 5vw;
+}
+
+.div21 img {
+    margin-top: -2vh;
+    margin-left: 1vw;
+    width: 5vw;
+}
+
+.div22 img {
+    width: 5vw;
+    margin-top: 0vh;
+}
+
+.div23 img {
+    width: 10vw;
+    margin-top: -1vh;
+}
+
+.div24 img {
+    width: 6vw;
+    margin-top: 1vh;
+}
+
+.div25 img {
+    width: 10vw;
+    margin-top: -5vh;
+}
+
+.div26 img {
+    width: 5vw;
+    margin-top: -2vh;
+}
+
+.div27 img {
+    width: 6vw;
+}
+
+.div28 hr {
+    margin-top: 0vh;
+    margin-bottom: 4vh;
+    margin-left: 25vw;
+    margin-right: 19vw;
+}
+
 

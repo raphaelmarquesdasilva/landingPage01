@@ -113,6 +113,47 @@
 
 .div10 {
     display: flex;
-    font-size: 7px;
+    margin-top: 5vh;
 }
+
+.div11 h1 {
+    font-size: 17px;
+    margin-left: 25.5vw;
+}
+
+.div12 h1 {
+    font-size: 17px;
+    margin-left: 7vw;
+}
+
+.div13 h1 {
+    font-size: 17px;
+    margin-left: 14.5vw;
+}
+
+.div14 {
+    display: flex;
+    color: #9ca0a4;
+    margin-top: 5vh;
+}
+
+.div15 {
+    margin-left: 25.5vw;
+}
+
+.div16 {
+    margin-left: 3vw;
+}
+
+.div17 {
+    margin-left: 4vw;
+}
+
+.div18 hr {
+    margin-top: 20vh;
+    margin-bottom: 5vh;
+    margin-left: 25vw;
+    margin-right: 19vw;
+}
+
 

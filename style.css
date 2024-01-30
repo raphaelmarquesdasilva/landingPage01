@@ -238,4 +238,131 @@
     font-size: 16px;
 }
 
+.div33 {
+    background-color: #faf9f8;
+    margin-bottom: 30vh;
+    margin-left: 5vw;
+    margin-right: 5vw;
+}
+
+.div34 p {
+    font-size: 25px;
+    color: #004c3f;
+    margin-left: 48vw;
+    margin-top: 10vh;  
+    font-weight: bold;
+}
+
+.div35 {
+    display: flex;
+}
+
+.div35p1 {
+    margin-left: 32.5vw;
+    margin-top: 10vh;
+    color: #3a3c3e;
+}
+
+.div35p2 {
+    margin-left: 23.5vw;
+    margin-top: 10vh;
+    font-size: 20px;
+    font-weight: bold;
+    color: #3a3c3e;
+}
+
+.div36 hr {
+    margin-left: 32vw;
+    margin-right: 25.5vw;
+    color: #dbdde0;
+}
+
+.div37 {
+    display: flex;
+}
+
+.div37p1 {
+    margin-left: 32.5vw;
+    margin-top: 2vh;
+    color: #3a3c3e;
+}
+
+.div37p2 {
+    margin-left: 27.3vw;
+    margin-top: 2vh;
+    font-size: 20px;
+    font-weight: bold;
+    color: #3a3c3e;
+}
+
+.div38 hr {
+    margin-left: 32vw;
+    margin-right: 25.5vw;
+    color: #dbdde0;
+}
+
+.div39 {
+    display: flex;
+}
+
+.div39p1 {
+    margin-left: 32.5vw;
+    margin-top: 2vh;
+    color: #3a3c3e;
+}
+
+.div39p2 {
+    margin-left: 20.8vw;
+    margin-top: 2vh;
+    font-size: 20px;
+    font-weight: bold;
+    color: #3a3c3e;
+}
+
+.div40 hr {
+    margin-left: 32vw;
+    margin-right: 25.5vw;
+    color: #dbdde0;
+}
+
+.div41 {
+    display: flex;
+}
+
+.div41p1 {
+    margin-left: 32.5vw;
+    margin-top: 2vh;
+    color: #3a3c3e;
+}
+
+.div41p2 {
+    margin-left: 16.9vw;
+    margin-top: 2vh;
+    font-size: 20px;
+    font-weight: bold;
+    color: #3a3c3e;
+}
+
+.div42 hr {
+    margin-left: 32vw;
+    margin-right: 25.5vw;
+    margin-bottom: 20vh;
+    color: #dbdde0;
+}
+
+.div43 {
+    margin-top: -20vh;
+    margin-bottom: 30vh;
+}
+
+.div43a1 {
+    margin-left: 71vw;
+}
+
+.div43a2 {
+    margin-left: 1vw;
+}
+
+
+
 
